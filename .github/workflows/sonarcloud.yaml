@@ -1,3 +1,5 @@
+name: SonarCloud Scan
+
 on:
   push:
     branches:
