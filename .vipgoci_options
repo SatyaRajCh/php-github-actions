@@ -1,0 +1,7 @@
+{
+  "phpcs-severity": 5,
+  "post-generic-pr-support-comments": true,
+  "results-comments-sort": true,
+  "review-comments-include-severity": true,
+  "phpcs": true
+}
